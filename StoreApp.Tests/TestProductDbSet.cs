@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace StoreApp.Tests
 {
-    //Test
+    //Test //
     class TestProductDbSet : TestDbSet<Product>
     {
         //Test
