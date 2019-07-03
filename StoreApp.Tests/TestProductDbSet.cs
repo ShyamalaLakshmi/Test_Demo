@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace StoreApp.Tests
 {
+    //Test
     class TestProductDbSet : TestDbSet<Product>
     {
         public override Product Find(params object[] keyValues)
